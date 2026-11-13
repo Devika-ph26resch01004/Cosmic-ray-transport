@@ -67,8 +67,8 @@ A linear fit to the mean-square displacement in the identified diffusive time in
 Cosmic-ray-transport/
 │
 ├── simulation_codes/
-│   ├── turbulent_field.py
-│   └── ensemble_300.py
+│   ├── turbulent_field1.py
+│   └── ensemble_test_300.py
 │
 ├── analysis_codes/
 │   ├── calculate_kappa_parallel.py
