@@ -45,7 +45,7 @@ An MPI implementation, such as Open MPI or MPICH, must also be installed separat
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Cosmic-ray-transport.git
+git clone https://github.com/Devika-ph26resch01004/Cosmic-ray-transport.git
 ```
 
 Navigate to the project directory:
